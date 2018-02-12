@@ -1,0 +1,2 @@
+# contoh-fuzzy
+fuzzy logik
